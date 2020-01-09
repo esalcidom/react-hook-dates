@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Dependencies
+
+to run this project is needed json-server to enable the db.json file as REST api. To install it for the fist time run npm install -g json-server.
+
+After install run the service of REST on root of this project run json-server db.json -p 4000
+
 ### `npm start`
 
 Runs the app in the development mode.<br />

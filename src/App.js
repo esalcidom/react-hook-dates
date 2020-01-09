@@ -27,7 +27,7 @@ function App() {
         <Switch>
           <Route exact path="/productos" render={() => (<Productos productos={productos} />)} />
           <Route exact path="/producto/nuevo" component={AgregarProducto} />
-          <Route exact path="/producto/:id" component={EditarProducto} />
+          <Route exact path="/producto/editar/:id" component={EditarProducto} />
         </Switch>
       </main>
       <p className="mt-4 p2 text-center">Todos los derechos Reservados</p>

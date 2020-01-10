@@ -1,16 +1,34 @@
 {
-    "restaurant" : [
-        {
-            "precio" : "200",
-            "nombre" : "Cheesecake",
-            "categoria" : "postres",
-            "id" : 1
-        },
-        {
-            "precio" : "300",
-            "nombre" : "Rib Eye",
-            "categoria" : "cortes",
-            "id" : 2
-        }
-    ]
+  "restaurant": [
+    {
+      "precio": "200",
+      "nombre": "Cheesecake",
+      "categoria": "postre",
+      "id": 1
+    },
+    {
+      "precio": "300",
+      "nombre": "Rib Eye",
+      "categoria": "cortes",
+      "id": 2
+    },
+    {
+      "precio": "20",
+      "nombre": "Agua de Frutas",
+      "categoria": "bebida",
+      "id": 5
+    },
+    {
+      "precio": "2",
+      "nombre": "Agua de Frutas",
+      "categoria": "bebida",
+      "id": 6
+    },
+    {
+      "precio": "30",
+      "nombre": "pastel",
+      "categoria": "postre",
+      "id": 7
+    }
+  ]
 }
